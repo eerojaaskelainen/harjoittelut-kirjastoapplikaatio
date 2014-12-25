@@ -8,4 +8,6 @@ Tekemässä mukana:
 - Sari Ruusiala
 - Heini Vaartio
 - Elina Friberg
-- 
+
+Tehty Opiframe Oy:n järjestämällä Sovellus- & Pelinkehittäjä-kurssilla 2014.
+
