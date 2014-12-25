@@ -1,0 +1,7 @@
+1|Erkki|Eka|120475-134K|Torikatu 5, 24100 Salo|1|10|1401782828|0|14|0|0.000000|erkki.eka|134K|
+2|Tiina|Toka|120475-1542|Helsingintie 5, 24100 Salo|0|0|0.000000|||
+3|Keijo|Kolmonen|121212-123Y|Turuntie 12 A 12, 24100 Salo|0|0|0.000000|||
+4|Vesa|Virtanen|130484-453F|Perniöntie 1, 24240 Salo|0|0|0.000000|||
+5|Anneli|Arvonen|040499-5680|Torikatu 56, 24100 Salo|0|0|0.000000|||
+6|Unto|Unelias|050670-345X|Järvitie 234, 24800 Salo|1|9|1401455972|0|14|0|0.000000|||
+7|Pauli|Virtanen|220256-126H|Turuntie 2, 24100 Salo|0|0|0.000000|pauli.virtanen|126H|

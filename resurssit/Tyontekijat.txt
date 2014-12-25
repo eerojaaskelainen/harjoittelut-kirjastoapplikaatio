@@ -1,0 +1,7 @@
+1|Erkki|Eka|120475-134K|Torikatu 5, 24100 Salo|1|1|admin|erkki|admin|
+2|Tapio|Toka|120472-9876|Helsingintie 5, 24100 Salo|1|1|kassa|tapsa|toka|
+3|Keijo|Kuusisto|121212-123Y|Turuntie 12 A 12, 24100 Salo|1|1|kassa|keijokuusisto|123Y|
+4|Vesa|Virtanen|130484-453F|Perniöntie 1, 24240 Salo|1|1|kassa|||
+5|Anneli|Arvonen|040499-5680|Torikatu 56, 24100 Salo|1|1|kassa|||
+6|Maija|Unelias|150465-9871|Annankatu 1, 24240 Salo|1|1|kassa|||
+7|Auli|Virtanen|220256-126H|Helsingintie 4, 21400 Salo|1|1|kassa|auli|passu|
